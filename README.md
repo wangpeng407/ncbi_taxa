@@ -1,15 +1,19 @@
-# Description
+### Description
 
 - perl script for processing names.dmp and nodes.dmp 
 
 
-# Example
+### Example
 ```
 perl ncbi_nodes_names_to_taxanomy.pl nodes.dmp names.dmp > taxa_info.list
 
 ```
 
-# NOTE
+#### NOTE
+
+See result as taxa_info.list
+
+
 - First column is taxa id 
   ```
   6

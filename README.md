@@ -2,7 +2,7 @@
 
 - perl script for processing names.dmp and nodes.dmp 
 
-  Download names.dmp and nodes.dmp from [here](ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdmp.zip)
+  Download names.dmp and nodes.dmp from ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdmp.zip
 
 
 ### Example
